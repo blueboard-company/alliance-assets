@@ -1,0 +1,9 @@
+<svg id="Search_Field_Type" data-name="Search Field Type" xmlns="http://www.w3.org/2000/svg" width="613" height="53" viewBox="0 0 613 53">
+  <g id="Rectangle_789" data-name="Rectangle 789" fill="rgba(255,255,255,0.45)" stroke="#fff" stroke-width="1">
+    <rect width="613" height="53" rx="26.5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="612" height="52" rx="26" fill="none"/>
+  </g>
+  <text id="_Placeholder_Label" data-name="↳ Placeholder Label" transform="translate(16.329 33.203)" fill="#002854" font-size="18" font-family="OpenSans, Open Sans" letter-spacing="0em"><tspan x="0" y="0">Search by Model Number</tspan></text>
+  <path id="Search" d="M22.816,24.247A1.439,1.439,0,0,1,21.78,23.8l-6.633-6.636-.006,0a9.305,9.305,0,0,1-5.579,1.839H9.526A9.544,9.544,0,0,1,2.753,2.762,9.485,9.485,0,0,1,9.416,0h.041a9.582,9.582,0,0,1,9.526,9.54,9.329,9.329,0,0,1-1.819,5.6L23.8,21.778a1.432,1.432,0,0,1-.987,2.469ZM9.429,1.9A7.578,7.578,0,0,0,4.14,14.86,7.62,7.62,0,0,0,9.52,17.11h.029A7.6,7.6,0,0,0,9.464,1.9Z" transform="translate(572.203 16.203)" fill="#fff" stroke="#fffdfd" stroke-width="1"/>
+  <path id="Path_1825" data-name="Path 1825" d="M668-383h1.389v36.109H668Z" transform="translate(-106.876 393.039)" fill="#fff"/>
+</svg>
